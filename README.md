@@ -28,7 +28,7 @@
 </div>
 <p align="left">
     <a href="https://git.io/streak-stats">
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhav1207theme=tokyonight"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Vibhav1207&theme=dark"/>
     </a>
 </p>
 <p align="left"> 
