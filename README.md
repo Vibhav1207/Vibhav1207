@@ -31,11 +31,7 @@
         <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=Vibhav1207&theme=dark"/>
     </a>
 </p>
-<p align="left"> 
-<a href="https://github.com/vibhav1207">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vibhav1207&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 <p align="left">
 <img height="40em" src="https://komarev.com/ghpvc/?username=vibhav1207&color=brightgreen" alt="watching_count">
