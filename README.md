@@ -22,7 +22,7 @@
 ## 📈 Stats
 
 <div align="left">
-    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=drix10&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
+    <img height="130em" src="https://github-profile-trophy.vercel.app/?username=Vibhav1207&theme=juicyfresh&&title=Stars,Commit,Repo,Join&no-frame=true"/>
 <br />
 <br />
 </div>
