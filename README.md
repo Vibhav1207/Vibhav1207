@@ -1,7 +1,7 @@
 ## 🚀 About Me
 🎓 I am Vibhav Patel, a **Back End Developer** (specializing in **Python Applications**)
 
-📚 I am currently preparing for **JEE** & pursuing my Dreams
+📚 I am currently preparing for **JEE**
 
 ## 🏅 Achievements
 🏆 **Top 10 Finalist** in **IIT Bombay TechFest** 2022
