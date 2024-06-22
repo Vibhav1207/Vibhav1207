@@ -6,7 +6,7 @@
 ## 🏅 Achievements
 🏆 **Techfest Contestant ** in **IIT Bombay TechFest** 2022 and 2023
 
-🤝 **Manager of Reef Bot Discord**
+🤝 **Developer of ReeF Bot Discord**
 
 ## 🛠️ Skills
 ### Languages
