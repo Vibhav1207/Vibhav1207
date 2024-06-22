@@ -4,7 +4,7 @@
 📚 I am currently preparing for **JEE**
 
 ## 🏅 Achievements
-🏆 **Top 10 Finalist** in **IIT Bombay TechFest** 2022
+🏆 **Techfest Contestant ** in **IIT Bombay TechFest** 2022 and 2023
 
 🤝 **Manager of Reef Bot Discord**
 
@@ -17,8 +17,7 @@
 ### Softwares
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![replit](https://img.shields.io/badge/replit-000000?style=for-the-badge&logo=replit&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![picsart](https://img.shields.io/badge/picsart-000000?style=for-the-badge&logo=picsart&logoColor=white)
+
 ## 📈 Stats
 
 <div align="left">
